@@ -28,7 +28,7 @@
   position: relative;
   top: 230px;
   left: 550px;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3a/Rock_in_Garden.jpg");
+  background-image: url("https://github.com/FabioAlverde/game_m291/blob/main/fels.png");
   background-size: cover;
   animation: obstacleMove 1.33s infinite linear;
 }
