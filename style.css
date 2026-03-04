@@ -8,7 +8,7 @@
   height: 300px;
   border: 2px solid black;
   margin: auto;
-  background-image: url("C:\Users\FAL\Desktop\vhs_game\hintergrund.jpg"); /* Verkehrshaus */
+  background-image: url("https://github.com/FabioAlverde/game_m291/blob/main/hintergrund.jpg"); /* Verkehrshaus */
   background-size: cover;
   background-position: center;
 }
@@ -18,7 +18,7 @@
   height: 80px;
   position: relative;
   top: 210px;
-  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/3a/Ship_icon.svg"); /* Schiff-Icon */
+  background-image: url("https://github.com/FabioAlverde/game_m291/blob/main/schiff.png"); /* Schiff-Icon */
   background-size: cover;
 }
 
